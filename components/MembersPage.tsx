@@ -14,7 +14,8 @@ export function MembersPage() {
       proposals: 0, // 情報なし
       term: 0, // 情報なし
       focus: ["総務"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/1miura.jpg",
       committee: "総務",
     },
     {
@@ -26,7 +27,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["建設", "水道", "議会運営"],
-      image: "👩‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/2takaginaoto.jpg",
       committee: "建設水道（副）, 議会運営",
     },
     {
@@ -38,7 +40,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["経済", "民生", "議会運営"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/8endou.jpg",
       committee: "経済民生, 議会運営",
     },
     {
@@ -50,7 +53,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["文教", "福祉"],
-      image: "👩‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/10sugawara.jpg",
       committee: "文教福祉",
     },
     {
@@ -62,7 +66,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["建設", "水道", "議会運営"],
-      image: "👩‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/13nikaidourie.jpg",
       committee: "建設水道, 議会運営",
     },
     {
@@ -74,7 +79,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["総務"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/6suzukitetsu.png",
       committee: "総務",
     },
     {
@@ -86,7 +92,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["文教", "福祉", "議会運営"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/3urano.jpg",
       committee: "文教福祉, 議会運営",
     },
     {
@@ -98,7 +105,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["経済", "民生", "議会運営"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/4satousei.jpg",
       committee: "経済民生, 議会運営",
     },
     {
@@ -110,7 +118,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["経済", "民生", "議会運営"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/6yamada.jpg",
       committee: "経済民生（副）, 議会運営",
     },
     {
@@ -122,7 +131,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["文教", "福祉"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/7tanji.jpg",
       committee: "文教福祉",
     },
     {
@@ -134,7 +144,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["文教", "福祉", "議会運営"],
-      image: "👩‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/9sahara.jpg",
       committee: "文教福祉（副）, 議会運営",
     },
     {
@@ -146,7 +157,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["文教", "福祉", "議会運営"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/11nemoto.jpg",
       committee: "文教福祉（正）, 議会運営",
     },
     {
@@ -158,7 +170,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["経済", "民生"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/12saitoumasaomi.jpg",
       committee: "経済民生（正）",
     },
     {
@@ -170,7 +183,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["建設", "水道"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/20kawamata.jpg",
       committee: "建設水道（正）",
     },
     {
@@ -182,7 +196,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["建設", "水道"],
-      image: "👩‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/5nanashima.jpg",
       committee: "建設水道",
     },
     {
@@ -194,7 +209,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["総務"],
-      image: "👩‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/14ishiyama.jpg",
       committee: "総務（副）",
     },
     {
@@ -206,7 +222,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["議長"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/15shirakawa.jpg",
       committee: "議長",
     },
     {
@@ -218,7 +235,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["文教", "福祉"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/16sasaki.jpg",
       committee: "文教福祉",
     },
     {
@@ -230,7 +248,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["総務"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/17gotou.jpg",
       committee: "総務",
     },
     {
@@ -242,7 +261,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["総務"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/18sawai.jpg",
       committee: "総務（正）",
     },
     {
@@ -254,7 +274,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["総務", "議会運営"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/21suzuki.jpg",
       committee: "総務, 議会運営（副）",
     },
     {
@@ -266,7 +287,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["建設", "水道"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/22nikaidoutakefumi.jpg",
       committee: "建設水道",
     },
     {
@@ -278,7 +300,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["経済", "民生"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/30ogata.jpg",
       committee: "経済民生",
     },
     {
@@ -290,7 +313,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["文教", "福祉"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/23hagihara.jpg",
       committee: "文教福祉",
     },
     {
@@ -302,7 +326,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["建設", "水道", "議会運営"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/24oohira.jpg",
       committee: "建設水道, 議会運営（正）",
     },
     {
@@ -314,7 +339,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["建設", "水道"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/25komatsu.jpg",
       committee: "建設水道",
     },
     {
@@ -326,7 +352,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["総務"],
-      image: "👩‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/26murayama.jpg",
       committee: "総務",
     },
     {
@@ -338,7 +365,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["経済", "民生"],
-      image: "👩‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/27ono.jpg",
       committee: "経済民生",
     },
     {
@@ -350,7 +378,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["副議長", "文教", "福祉"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/28haneda.jpg",
       committee: "副議長, 文教福祉",
     },
     {
@@ -362,7 +391,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["建設", "水道"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/29takagikatuhisa.jpg",
       committee: "建設水道",
     },
     {
@@ -374,7 +404,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["文教", "福祉"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/31sanada.jpg",
       committee: "文教福祉",
     },
     {
@@ -386,7 +417,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["総務"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/32shishido.jpg",
       committee: "総務",
     },
     {
@@ -398,7 +430,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["総務", "議会運営"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/33hanzawa.jpg",
       committee: "総務, 議会運営",
     },
     {
@@ -410,7 +443,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["経済", "民生"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/34kurosawa.jpg",
       committee: "経済民生",
     },
     {
@@ -422,7 +456,8 @@ export function MembersPage() {
       proposals: 0,
       term: 0,
       focus: ["経済", "民生"],
-      image: "👨‍💼",
+      image:
+        "https://www.city.fukushima.fukushima.jp/material/images/group/72/35watanabe.jpg",
       committee: "経済民生",
     },
   ];
@@ -483,8 +518,22 @@ export function MembersPage() {
           >
             {/* Header */}
             <div className="flex items-start gap-3 mb-4">
-              <div className="w-14 h-14 bg-gradient-to-br from-[#4DA9E8] to-[#3B8AC7] rounded-full flex items-center justify-center text-2xl">
-                {member.image}
+              <div className="w-14 h-14 bg-gradient-to-br from-[#4DA9E8] to-[#3B8AC7] rounded-full flex items-center justify-center text-2xl overflow-hidden">
+                {member.image.startsWith("/") ||
+                member.image.startsWith("./") ||
+                member.image.startsWith("http://") ||
+                member.image.startsWith("https://") ||
+                member.image.endsWith(".png") ||
+                member.image.endsWith(".jpg") ||
+                member.image.endsWith(".jpeg") ? (
+                  <img
+                    src={member.image}
+                    alt={member.name}
+                    className="w-full h-full object-cover"
+                  />
+                ) : (
+                  member.image
+                )}
               </div>
               <div className="flex-1">
                 <h4 className="text-[#333333] mb-1">{member.name}</h4>
